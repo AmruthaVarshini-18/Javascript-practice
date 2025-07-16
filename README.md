@@ -1,2 +1,11 @@
-# Javascript-practice
-A collection of JavaScript practice programs, exercises, and mini-projects to improve my coding skills &amp; practicing JavaScript fundamentals, DOM manipulation, functions, and mini projects while learning front-end development.
+# 🧠 JavaScript Practice
+
+Welcome to my **JavaScript Practice Repository**!  
+This repository contains code snippets, small projects, and exercises that I’ve completed while learning and practicing **JavaScript**.
+
+## 🧾 What You’ll Find Here
+
+- ✅ Hands-on practice with JavaScript fundamentals
+- 📜 Sample code for learning DOM manipulation
+- ⚙️ Mini projects to understand real-world use
+- 📚 Well-commented code to make learning easier
